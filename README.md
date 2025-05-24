@@ -15,4 +15,4 @@
 
 ### [Web Portfolio](https://edenappledev.github.io/WebPortfolio/)
   
-![My Skills](https://skillicons.dev/icons?i=html,css,javascript,ps,ai)
+![My Skills](https://skillicons.dev/icons?i=html,css,javascript,ps)
