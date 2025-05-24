@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, I'm Eden Kim 👋
 
-<!--
-**EdenAppleDev/EdenAppleDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br>
 
-Here are some ideas to get you started:
+## Main Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧑‍💻 Swift (iOS Development)
+[![Swift](https://skillicons.dev/icons?i=swift)](https://skillicons.dev)
+
+### 🔧 Version Control
+[![Git](https://skillicons.dev/icons?i=git)](https://skillicons.dev)
+[![GitHub](https://skillicons.dev/icons?i=github)](https://skillicons.dev)
+
+### 🎨 UI/UX Collaboration
+[![Figma](https://skillicons.dev/icons?i=figma)](https://skillicons.dev)
+
+<br>
+
+## Tech I've Worked With
+  
+[![My Skills](https://skillicons.dev/icons?i=html,css,javascript)](https://skillicons.dev)
