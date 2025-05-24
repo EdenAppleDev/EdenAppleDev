@@ -16,6 +16,7 @@
 
 <br>
 
-## Tech I've Worked With
+## Tech I've Worked With 
+### [2024 Web Portfolio](https://edenappledev.github.io/WebPortfolio/)
   
-[![My Skills](https://skillicons.dev/icons?i=html,css,javascript)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,javascript,ps)](https://skillicons.dev)
