@@ -6,8 +6,7 @@
 ![Swift](https://skillicons.dev/icons?i=swift)
 
 ### 🔧 Version Control
-![Git](https://skillicons.dev/icons?i=git)
-![GitHub](https://skillicons.dev/icons?i=github)
+![Git](https://skillicons.dev/icons?i=git,github)
 
 ### 🎨 UI/UX Collaboration
 ![Figma](https://skillicons.dev/icons?i=figma)
