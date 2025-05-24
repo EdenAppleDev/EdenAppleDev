@@ -1,5 +1,6 @@
 # Hello, I'm Eden Kim
 ###  I’m working to become an iOS developer.
+[![Velog](https://raw.githubusercontent.com/EdenAppleDev/EdenAppleDev/main/svg/velog.svg?sanitize=true)](https://velog.io/@edenkim/posts)
 
 <br>
 
