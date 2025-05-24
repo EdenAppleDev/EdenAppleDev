@@ -1,4 +1,7 @@
-# Hi, I'm Eden Kim 👋
+# Hello, I'm Eden Kim
+###  I’m working to become an iOS developer.
+
+<br>
 
 ## Main Tech Stack
 
@@ -16,3 +19,8 @@
 ### [Web Portfolio](https://edenappledev.github.io/WebPortfolio/)
   
 ![My Skills](https://skillicons.dev/icons?i=html,css,javascript,ps)
+
+<br>
+
+## Contact
+### noedenkim@gmail.com
