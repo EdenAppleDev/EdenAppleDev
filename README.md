@@ -17,7 +17,7 @@
 
 ## Tech I've Worked With 
 
-### [Web Portfolio](https://edenappledev.github.io/WebPortfolio/)
+### [Web Portfolio](https://kimeden.com/)
   
 ![My Skills](https://skillicons.dev/icons?i=html,css,javascript,ps)
 
