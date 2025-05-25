@@ -1,7 +1,6 @@
 # Hello, I'm Eden Kim
 ###  I’m working to become an iOS developer.
 [![tistory](https://raw.githubusercontent.com/EdenAppleDev/EdenAppleDev/main/svg/tistory.svg?sanitize=true)](https://kimeden.tistory.com/)
-[![velog](https://raw.githubusercontent.com/EdenAppleDev/EdenAppleDev/main/svg/velog.svg?sanitize=true)](https://velog.io/@edenkim/posts)
 <br>
 
 ## Main Tech Stack
