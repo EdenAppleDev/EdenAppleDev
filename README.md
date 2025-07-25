@@ -24,4 +24,4 @@
 <br>
 
 ## Contact
-### noedenkim@gmail.com
+### contact@kimeden.com
